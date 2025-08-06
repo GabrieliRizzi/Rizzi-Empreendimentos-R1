@@ -65,7 +65,7 @@ body {
 
 /* === HERO SECTION === */
 .hero {
-  background: url('img/hero.jpg') center/cover no-repeat;
+  background: ('img/hero.jpg') center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
